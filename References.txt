@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Stroop_effect
+http://www.snre.umich.edu/eplab/demos/st0/stroopdesc.html
+https://github.com/jaycode/stroop-effect
+https://github.com/IanEdington/DA_Stroop-effect
